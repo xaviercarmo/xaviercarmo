@@ -1,4 +1,8 @@
-## Hi there 👋
+Hi, I'm Xavier :)
+
+Currently working full-time on [RTOPilot - Student Management System](https://www.rtopilot.com.au/), trying to make the RTO software industry a little nicer for everyone.
+
+Besides working on this, I also love game development, reading, and playing badminton.
 
 <!--
 **xaviercarmo/xaviercarmo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
